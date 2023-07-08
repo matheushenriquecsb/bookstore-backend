@@ -19,7 +19,7 @@ Aplicação que tem como objetivo criar um backend, com endpoints que possui as 
 
 * Editor de código recomendado: [VSCode](https://code.visualstudio.com/)<br>
 * Possuir o [Node.js](https://nodejs.org/en/)<br>
-* Software para testar os enpoints, como [Insomnia](https://insomnia.rest/) ou [Postman](https://postman.com/)<br>
+* Software para testar os endpoints, como [Insomnia](https://insomnia.rest/) ou [Postman](https://postman.com/)<br>
 
 ## Features
  
